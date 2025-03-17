@@ -1,48 +1,48 @@
 <div align="center">
-  <h1 align="center">Hola, soy <a href="https://phosky71.github.io/portfolio_antoniojuan/">Antonio Juan González-Conde Abril</a> 👋</h1>
+  <h1 align="center">Hello, I'm <a href="https://phosky71.github.io/portfolio_antoniojuan/">Antonio Juan González-Conde Abril</a> 👋</h1>
 </div>
 
 <img src="./images/imagenAntonioJuan.jpeg" width="200" align="center" alt="Antonio Juan González-Conde Abril">
 
-## Sobre mí
+## About Me
 
-- 🎓 **Técnico en Desarrollo de Aplicaciones Multiplataforma (DAM)** con formación en Desarrollo de Aplicaciones Web (DAW).
-- 💼 **Experiencia en NTT Data** como becario en desarrollo y mantenimiento de aplicaciones.
-- 🚀 Apasionado por el desarrollo web y multiplataforma, creando soluciones innovadoras.
+- 🎓 **Multiplatform Application Development Technician (DAM)** with additional training in Web Application Development (DAW).
+- 💼 **Internship at NTT Data** working on application development and maintenance.
+- 🚀 Passionate about web and multiplatform development, creating innovative solutions.
 
-## Tecnologías y herramientas 🛠️
+## Technologies & Tools 🛠️
 
-### 🚀 Backend y APIs
+### 🚀 Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-### 🎨 Frontend y Diseño
+### 🎨 Frontend & Design
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 📱 Desarrollo Móvil
+### 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![WebView](https://img.shields.io/badge/WebView-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
-### ⚙️ Otras herramientas y metodologías
+### ⚙️ Other Tools & Methodologies
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Batch](https://img.shields.io/badge/Spring%20Batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-## 🚀 Proyectos destacados
+## 🚀 Featured Projects
 
 ### [CryptoTrack](https://github.com/Phosky71/WalletSimulator) 💰
-📌 Simulador educativo para gestionar criptomonedas sin riesgos financieros. Desarrollado con:
+📌 Educational simulator for managing cryptocurrencies without financial risks. Developed using:
 - **Backend:** Node.js, ExpressJS, MongoDB, JWT, CoinRanking API
 - **Frontend:** HTML, CSS, Bootstrap, JavaScript
-- **Móvil:** Flutter con WebView
+- **Mobile:** Flutter with WebView
 
-🔗 [🔗 Ver Servicio Web](https://walletsimulator.onrender.com) | [💻 Código - Backend](https://github.com/Phosky71/WalletSimulator) | [📱 Código - App Flutter](https://github.com/Phosky71/CryptoTrackAndroid)
+🔗 [🔗 View Web Service](https://walletsimulator.onrender.com) | [💻 Code - Backend](https://github.com/Phosky71/WalletSimulator) | [📱 Code - Flutter App](https://github.com/Phosky71/CryptoTrackAndroid)
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -52,7 +52,7 @@
   </a>
 </p>
 
-## 📫 Contacto
+## 📫 Contact
 
 📧 **Email:** ajgonzalezconde@hotmail.com  
-📍 **Ubicación:** Murcia, España
+📍 **Location:** Murcia, Spain
