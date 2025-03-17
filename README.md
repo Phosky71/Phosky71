@@ -42,7 +42,7 @@
 - **Frontend:** HTML, CSS, Bootstrap, JavaScript
 - **Mobile:** Flutter with WebView
 
-🔗 [🔗 View Web Service](https://walletsimulator.onrender.com) | [💻 Code - Backend](https://github.com/Phosky71/WalletSimulator) | [📱 Code - Flutter App](https://github.com/Phosky71/CryptoTrackAndroid)
+[🔗 View Web Service](https://walletsimulator.onrender.com) | [💻 Code - Backend](https://github.com/Phosky71/WalletSimulator) | [📱 Code - Flutter App](https://github.com/Phosky71/CryptoTrackAndroid)
 
 ## 📊 GitHub Stats
 <p align="center">
