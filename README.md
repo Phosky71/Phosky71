@@ -71,8 +71,8 @@
    - 🔗 [View Project](https://github.com/Phosky71/WalletSimulator) | [Live Service](https://walletsimulator.onrender.com/)
 
 ### 5. **[RBY Lua](https://github.com/Phosky71/rbylua)** 🎮
-   📌 Specialized Lua scripting library for Roblox game development
-   - **Technology:** Lua, Roblox Studio, Game Development
+   📌 Specialized Lua scripting library for Pokemon game development
+   - **Technology:** Lua
    - **Features:** Custom APIs, OOP patterns, performance optimization utilities
    - **Use Cases:** Game scripting, automation, framework development
    - 🔗 [View Project](https://github.com/Phosky71/rbylua)
