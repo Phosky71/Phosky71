@@ -8,7 +8,6 @@
 
 - 🎓 **Multiplatform Application Development Technician (DAM)** with additional training in Web Application Development (DAW)
 - 📚 **Master's Student** in Big Data & AI
-- 💼 **Internship at NTT Data** - Application development and maintenance
 - 🚀 **Passionate about full-stack development**, AI integration, and data engineering
 - 📚 **Continuous learner** specializing in emerging technologies and innovative solutions
 
