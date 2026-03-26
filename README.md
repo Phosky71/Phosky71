@@ -3,9 +3,9 @@
 
 <div align=\"center\">
 
-[![LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/antonio-juan-gonz%C3%A1lez-conde-abril-a2185b226/)
-[![Portfolio-Showcase-25292e?style=for-the-badge&logo=googlechrome](https://img.shields.io/badge/Portfolio-Showcase-25292e?style=for-the-badge&logo=googlechrome)](https://phosky71.github.io/portfolio_antoniojuan/)
-[![Contact-Direct-D14836?style=for-the-badge&logo=gmail](https://img.shields.io/badge/Contact-Direct-D14836?style=for-the-badge&logo=gmail)](mailto:ajgonzalezconde@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-juan-gonz%C3%A1lez-conde-abril-a2185b226/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-25292e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://phosky71.github.io/portfolio_antoniojuan/)
+[![Contact](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajgonzalezconde@hotmail.com)
 
 <img src=\"./images/imagenAntonioJuan.jpeg\" width=\"180\" style=\"border-radius: 50%; border: 4px solid #0077B5; box-shadow: 0 10px 20px rgba(0,0,0,0.3); margin-top: 20px;\">
 
@@ -79,8 +79,10 @@ Expert Software Engineer with a **Master of Science in Big Data & AI**. I specia
 
 ### 📊 GitHub Statistics
 <div align=\"center\">
-  <img src=\"https://github-readme-stats.vercel.app/api?username=Phosky71&show_icons=true&theme=radical&count_private=true\" alt=\"Phosky71's Stats\" />
-  <img src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=Phosky71&layout=compact&theme=radical&hide=html,css\" alt=\"Top Languages\" />
+
+![Phosky71's Stats](https://github-readme-stats.vercel.app/api?username=Phosky71&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phosky71&layout=compact&theme=radical&hide=html,css)
+
 </div>
 
 ---
