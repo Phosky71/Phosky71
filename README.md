@@ -15,13 +15,13 @@
 
 ### 📋 About Me
 
-I'm a **Software Engineer** based in Murcia, Spain, holding a **Master of Science in Big Data & Artificial Intelligence**. My academic path has taken me through the full spectrum of modern software: distributed data pipelines, cloud-native AI services, full-stack web and mobile development, and security tooling.
+I'm a **Software Engineer** based in Murcia, Spain, with a **Master of Science in Big Data & Artificial Intelligence**. My academic background covers the full modern stack: distributed data engineering, cloud-native AI pipelines, full-stack and cross-platform development, and application security.
 
-On the professional side, I've worked across a diverse range of projects — from enterprise web applications and cross-platform desktop software to data engineering systems and IDE plugin development. I enjoy building things that actually solve problems, whether that's a tool for a client or a framework for myself.
+Professionally, I've delivered a wide range of software — client-facing web platforms, cross-platform desktop and mobile applications, enterprise document processing systems, and custom IDE tooling. I thrive at the intersection of well-architected systems and real-world utility.
 
-I'm also the founder of **[Operia](https://github.com/Phosky71/operia-security-analyzer)** — a security-focused software initiative centered on developer tooling for the JetBrains ecosystem. Operia's flagship product is a static analysis engine for detecting code vulnerabilities and secrets directly inside the IDE, with AI-assisted remediation.
+I'm the founder of **Operia**, a software initiative building developer security tooling for the JetBrains ecosystem. What started as a side project has grown into a serious product I'm actively developing and iterating on.
 
-Outside of work, I'm passionate about automation, emulation, and finding creative ways to apply code to unconventional problems.
+Outside of work: I build personal projects that genuinely interest me — from an offline-first PWA for managing my Magic: The Gathering collection, to a local multiplayer party game built in Flutter for playing with friends. I'm also deep into automation, emulation, and finding creative ways to apply code to unconventional problems.
 
 ---
 
@@ -33,34 +33,47 @@ Outside of work, I'm passionate about automation, emulation, and finding creativ
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 #### Frameworks & Platforms
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-0078D7?style=for-the-badge&logo=windows&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### Cloud & Data
+#### Cloud & AI Services
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Azure AI Vision](https://img.shields.io/badge/Azure_AI_Vision-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure Speech](https://img.shields.io/badge/Azure_Speech-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-#### Developer Tools
+#### Data Engineering
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Security & Dev Tools
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
 ---
 
@@ -73,7 +86,7 @@ Outside of work, I'm passionate about automation, emulation, and finding creativ
 ### 🔐 [Operia Security Analyzer](https://github.com/Phosky71/operia-security-analyzer)
 > *Private — Operia Initiative*
 
-Advanced **static analysis engine** for the JetBrains platform. Detects vulnerabilities, exposed secrets, and insecure patterns directly in the IDE. Features AI-powered remediation suggestions using both local LLMs and cloud APIs.
+Security tooling for the JetBrains platform, focused on helping developers write safer code without leaving the IDE. Actively developed and iterated.
 
 `Kotlin` · `IntelliJ SDK` · `Static Analysis` · `AI`
 
@@ -105,7 +118,7 @@ Cross-platform app for **private Retrieval-Augmented Generation** using Anything
 ### 📄 [Azure AI Invoice Scanner](https://github.com/Phosky71/Azure-AI-Invoice-Scanner)
 > *Enterprise Document AI*
 
-Enterprise-grade MAUI app integrating the full **Azure AI suite**: invoice OCR, Computer Vision, Speech Translation, and OpenAI-powered document summaries.
+MAUI app integrating the full **Azure AI suite**: invoice OCR, Computer Vision, real-time Speech Translation, and OpenAI-powered document summaries.
 
 `C#` · `Azure Cognitive Services` · `OCR` · `Speech` · `OpenAI`
 
@@ -114,22 +127,22 @@ Enterprise-grade MAUI app integrating the full **Azure AI suite**: invoice OCR, 
 <tr>
 <td width="50%" valign="top">
 
-### 🗃️ [Medallion ETL Pipeline](https://github.com/Phosky71/Proyecto_UT1_RA1_BA)
-> *MSc Big Data Project*
+### 🃏 [MTG-Vault](https://github.com/Phosky71/MTG-Vault)
+> *Personal Project · Offline-First PWA*
 
-Financial budget execution pipeline with **Bronze-Silver-Gold medallion architecture**. Includes automated data validation, invalid-record quarantine, idempotent deduplication, and Parquet exports.
+Offline-first Progressive Web App for managing a Magic: The Gathering collection. Features deck builder, card search via Scryfall, foil pricing, wishlists, multi-format CSV import, and a bracket calculator for Commander.
 
-`Python` · `ETL` · `Pandas` · `Big Data` · `Parquet`
+`JavaScript` · `Vite` · `Tailwind CSS` · `PWA` · `IndexedDB`
 
 </td>
 <td width="50%" valign="top">
 
-### 🚀 [CommitCraft / GitGenius](https://github.com/Phosky71/AutoCommit-GitGenius)
-> *AI-Powered Dev Tooling*
+### 🗃️ [Medallion ETL Pipeline](https://github.com/Phosky71/Proyecto_UT1_RA1_BA)
+> *Big Data · Bronze-Silver-Gold Architecture*
 
-Desktop tool built with **Tauri & Rust** that generates semantic, professional commit messages using Google Gemini 2.0 Flash. Supports scheduled auto-commits and workflow automation.
+Financial budget execution pipeline with **medallion architecture**. Automated data validation, invalid-record quarantine, idempotent deduplication, and Parquet exports.
 
-`Rust` · `Tauri` · `Gemini 2.0` · `Git Automation`
+`Python` · `ETL` · `Pandas` · `Airflow` · `Parquet`
 
 </td>
 </tr>
