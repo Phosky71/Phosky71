@@ -1,69 +1,75 @@
 <div align="center">
 
-# 🚀 Hola, soy Antonio Juan González-Conde Abril 👋
-### Desarrollador de Software | Especialista en IA y Big Data | Entusiasta de la Automatización
+# 🚀 Antonio Juan González-Conde Abril
+### Software Developer | Big Data & AI Specialist | Automation Engineer
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-juan-gonz%C3%A1lez-conde-abril-a2185b226/)
-[![](https://img.shields.io/badge/Portfolio-25292e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://phosky71.github.io/portfolio_antoniojuan/)
-[![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajgonzalezconde@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-juan-gonz%C3%A1lez-conde-abril-a2185b226/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-25292e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://phosky71.github.io/portfolio_antoniojuan/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajgonzalezconde@hotmail.com)
 
-<img src="./images/imagenAntonioJuan.jpeg" width="180" style="border-radius: 50%; border: 3px solid #0077B5;">
+<img src="./images/imagenAntonioJuan.jpeg" width="180" style="border-radius: 50%; border: 4px solid #0077B5; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
 
 ---
 
-### 📑 Sobre Mí
-Soy un **Técnico en Desarrollo de Aplicaciones Multiplataforma (DAM)** con formación adicional en **DAW** y actualmente cursando un **Máster en Big Data e IA**. Mi enfoque principal es la creación de soluciones innovadoras que integran **Inteligencia Artificial**, **Arquitecturas Escalables** y **Automatización de Procesos**.
+### 🏛️ Professional Profile
+**Multiplatform Application Development Technician (DAM)** with advanced training in **Web Development (DAW)** and a **Master's in Big Data & AI**. I specialize in building end-to-end solutions that bridge the gap between **Cloud Infrastructure**, **Data Engineering**, and **Intelligent Systems**.
 
 </div>
 
 ---
 
-### 🛠️ Tecnologías & Stack Técnico
+### 💻 Technical Stack
 
-| Categoría | Tecnologías |
+<div align="center">
+
+| Ecosystem | Technologies |
 | :--- | :--- |
-| **Backend & APIs** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) |
-| **Frontend & Mobile** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| **Data & IA** | ![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Herramientas & Otros** | ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
+| **Backend & Core** | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) |
+| **Frontend & Mobile** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
+| **Data & Intelligence** | ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **Infrastructure & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 
----
-
-### 🚀 Proyectos Destacados
-
-#### 🤖 Inteligencia Artificial & Herramientas de Desarrollo
-*   **[Perplexity-Assistant](https://github.com/Phosky71/Perplexity-Assistant)**: Plugin para IntelliJ IDEA que integra la IA de Perplexity directamente en el flujo de trabajo del desarrollador.
-*   **[SecureGen](https://github.com/Phosky71/SecureGen)**: (Privado) Plugin para detección de vulnerabilidades y remediación automática mediante LLMs locales y en la nube.
-*   **[MAUI-LLM-Chat-RabbitMQ](https://github.com/Phosky71/MAUI-LLM-Chat-RabbitMQ)**: Sistema de comunicación entre LLMs utilizando RabbitMQ y arquitectura MVVM.
-
-#### 📊 Big Data & Pipelines de Datos
-*   **[Proyecto_UT1_RA1_BA](https://github.com/Phosky71/Proyecto_UT1_RA1_BA)**: Pipeline ETL financiero con arquitectura **Bronze-Silver-Gold**, validación automática y gestión de calidad de datos.
-*   **[books-pipeline](https://github.com/Phosky71/books-pipeline)**: Integración de datos de múltiples APIs (Goodreads/Google Books) mediante scraping y modelos canónicos.
-
-#### 📱 Aplicaciones de Consumo & Negocios
-*   **[Totalum-Business-Manager](https://github.com/Phosky71/Totalum-Business-Manager)**: Sistema de gestión empresarial con Angular 19, RxJS y Material Design.
-*   **[WalletSimulator](https://github.com/Phosky71/WalletSimulator)**: Simulador full-stack de billetera digital con Node.js y MongoDB.
-*   **[doghealth-tracker](https://github.com/Phosky71/doghealth-tracker)**: App móvil en Flutter con IA de Gemini para el seguimiento de la salud canina.
-
----
-
-### 📈 Estadísticas de GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Phosky71&show_icons=true&theme=radical&count_private=true" alt="Estadísticas de Phosky71" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phosky71&layout=compact&theme=radical&hide=html,css" alt="Lenguajes más usados" />
 </div>
 
 ---
 
-### 🔐 Seguridad & Análisis
-Como desarrollador enfocado en la seguridad, mantengo proyectos privados de **Static Analysis (SAST)** y herramientas personalizadas para el ecosistema de JetBrains (**Operia Security Analyzer**), demostrando mi compromiso con el código seguro y robusto.
+### 🌟 Key Projects
+
+#### 🤖 AI-Native Tools & IDE Extensions
+*   **[Perplexity-Assistant](https://github.com/Phosky71/Perplexity-Assistant)**: Custom JetBrains plugin integrating Perplexity AI for real-time intelligent code generation and debugging support.
+*   **[SecureGen](https://github.com/Phosky71/SecureGen)**: (Private) AI-powered static analysis tool for proactive vulnerability detection and automated code remediation.
+*   **[MAUI-LLM-Chat-RabbitMQ](https://github.com/Phosky71/MAUI-LLM-Chat-RabbitMQ)**: Distributed LLM-to-LLM conversation framework using RabbitMQ and .NET MAUI with MVVM architecture.
+
+#### 🏗️ Data Engineering & Industrial Pipelines
+*   **[Financial ETL Pipeline](https://github.com/Phosky71/Proyecto_UT1_RA1_BA)**: Robust ETL architecture following the **Bronze-Silver-Gold** pattern with automated validation and data quarantining.
+*   **[Azure AI Invoice Scanner](https://github.com/Phosky71/Azure-AI-Invoice-Scanner)**: Enterprise-grade document processing app integrating Azure Computer Vision, Speech, and OpenAI.
+*   **[Books Data Pipeline](https://github.com/Phosky71/books-pipeline)**: Multi-source data integration platform using web scraping and canonical data modeling.
+
+#### 💼 Enterprise & Consumer Applications
+*   **[Totalum Business Manager](https://github.com/Phosky71/Totalum-Business-Manager)**: Full-stack CRM/ERP management system built with **Angular 19**, RxJS, and Material Design.
+*   **[WalletSimulator](https://github.com/Phosky71/WalletSimulator)**: Secure digital wallet simulator with Node.js/Express backend and MongoDB persistence.
+*   **[MTG-Vault](https://github.com/Phosky71/MTG-Vault)**: Offline-first PWA for card collection management using Vite, TailwindCSS, and Chart.js.
 
 ---
 
-### 🎮 Otros Intereses
-Más allá del desarrollo corporativo, me apasiona la **emulación retro** y la **automatización de juegos** mediante scripting en **Lua** y **Python**, como se puede ver en mis repositorios de [AutoShinyHunter](https://github.com/Phosky71/AutoShinyHunterAllGens).
+### 🛡️ Security & Research
+My development philosophy is rooted in **Security by Design**. I actively maintain private projects focused on **SAST (Static Application Security Testing)** and custom security analyzers for IntelliJ IDEA (**Operia Security Analyzer**), ensuring high-integrity code across all my contributions.
+
+---
+
+### 🕹️ Game Automation & Low-Level Scripting
+Deep interest in **retro emulation** and **game logic automation**. I develop specialized frameworks for automated shiny hunting and memory manipulation across multiple console generations.
+*   **[AutoShinyHunterAllGens](https://github.com/Phosky71/AutoShinyHunterAllGens)**: Cross-generation automation framework using **Lua** and **Python**.
+
+---
 
 <div align="center">
-  <b>¿Te interesa mi trabajo? ¡Hablemos!</b><br>
-  📫 ajgonzalezconde@hotmail.com
+
+### 📊 Github Activity
+[![Phosky71's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phosky71&show_icons=true&theme=radical&count_private=true)](https://github.com/Phosky71)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phosky71&layout=compact&theme=radical&hide=html,css)](https://github.com/Phosky71)
+
+**Looking for collaboration on AI or Data Engineering projects?**
+[**Get in Touch**](mailto:ajgonzalezconde@hotmail.com)
+
 </div>
