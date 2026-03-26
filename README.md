@@ -14,34 +14,43 @@
 ---
 
 ### 📋 About Me
-Expert Software Engineer with a **Master of Science in Big Data & AI**. I specialize in building high-performance, distributed systems and intelligent tools. My work bridges the gap between complex data problems and elegant software solutions, utilizing **Azure AI ecosystems**, **distributed messaging (RabbitMQ)**, and **custom developer tools** for the JetBrains platform.
+I am a Software Engineer with a **Master of Science in Big Data & AI**, dedicated to designing and building high-performance, distributed systems. My work focuses on the intersection of **Azure AI services**, **asynchronous messaging (RabbitMQ)**, and **developer productivity tools** for the JetBrains platform. I excel at architecting complex solutions that scale, transforming abstract data challenges into robust, production-ready software.
 
 ---
 
 ### 🛠️ Technologies & Skills
 
-#### **Backend & APIs**
-*   **Architectures:** Medallion (Bronze/Silver/Gold), MVVM, Repository Pattern, Layered Persistence.
-*   **Languages & Frameworks:** C# (.NET Core/MAUI/WPF), Python (FastAPI/Pandas), Node.js (Express), Rust (Tauri).
-*   **Messaging & Async:** RabbitMQ (Async Eventing Consumers, Exchange/Queue routing), WebSockets.
-*   **Data Storage:** MongoDB, MySQL, SQLite, Parquet, Dual Persistence (In-memory/Relational).
+<div align="center">
 
-#### **AI & Data Engineering**
-*   **Azure AI Services:** Document Intelligence (OCR), Computer Vision, Speech-to-Text, Translator.
-*   **Large Language Models:** OpenAI GPT-4, Google Gemini 2.0 Flash, Local LLM integration (LM Studio, AnythingLLM).
-*   **Data Pipelines:** ETL orchestration, Scraping, Canonical Model Consolidation, KPI Generation.
+#### **Backend & Distributed Systems**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-#### **Frontend & Design**
-*   **Web Platforms:** Angular 19, React (Vite), Progressive Web Apps (PWA), RxJS State Management.
-*   **UI Frameworks:** Tailwind CSS, Material Design, Chart.js for data visualization.
+#### **Frontend & Mobile**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-#### **Mobile Development**
-*   **Cross-Platform:** .NET MAUI, Flutter (Dart).
-*   **Native Features:** Android WebView integration, RAG-enabled mobile assistants.
+#### **Data & Cloud**
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-#### **Other Tools & Platforms**
-*   **IDE Extensibility:** JetBrains Platform SDK (IntelliJ Plugin development in Kotlin).
-*   **DevOps & Tools:** Git Automation, Docker/Docker-Compose, GitHub Actions, CI/CD.
+#### **Specialized**
+![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white)
+
+</div>
 
 ---
 
@@ -74,6 +83,19 @@ Expert Software Engineer with a **Master of Science in Big Data & AI**. I specia
 *   **ETL & Big Data:** Managing the full data lifecycle from raw ingestion to KPI reporting.
 *   **IDE Ecosystems:** Enhancing developer workflows through custom plugin development.
 *   **Offline-First Apps:** Building robust PWAs with offline synchronization capabilities.
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+
+![Phosky71's Stats](https://github-readme-stats.vercel.app/api?username=Phosky71&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phosky71&layout=compact&theme=radical&hide=html,css)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Phosky71&theme=radical)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
