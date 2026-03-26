@@ -1,73 +1,91 @@
-# 🚀 Antonio Juan González-Conde Abril
+# Antonio Juan González-Conde Abril 👋
 ## MSc in Big Data & AI | Software Engineer | JetBrains Platform Specialist
 
-<div align="center">
+<div align=\"center\">
 
-[![](https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/antonio-juan-gonz%C3%A1lez-conde-abril-a2185b226/)
-[![](https://img.shields.io/badge/Portfolio-Showcase-25292e?style=for-the-badge&logo=googlechrome)](https://phosky71.github.io/portfolio_antoniojuan/)
-[![](https://img.shields.io/badge/Contact-Direct-D14836?style=for-the-badge&logo=gmail)](mailto:ajgonzalezconde@hotmail.com)
+[![LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/antonio-juan-gonz%C3%A1lez-conde-abril-a2185b226/)
+[![Portfolio-Showcase-25292e?style=for-the-badge&logo=googlechrome](https://img.shields.io/badge/Portfolio-Showcase-25292e?style=for-the-badge&logo=googlechrome)](https://phosky71.github.io/portfolio_antoniojuan/)
+[![Contact-Direct-D14836?style=for-the-badge&logo=gmail](https://img.shields.io/badge/Contact-Direct-D14836?style=for-the-badge&logo=gmail)](mailto:ajgonzalezconde@hotmail.com)
 
-<img src="./images/imagenAntonioJuan.jpeg" width="180" style="border-radius: 50%; border: 4px solid #0077B5; box-shadow: 0 10px 20px rgba(0,0,0,0.3); margin-top: 20px;">
+<img src=\"./images/imagenAntonioJuan.jpeg\" width=\"180\" style=\"border-radius: 50%; border: 4px solid #0077B5; box-shadow: 0 10px 20px rgba(0,0,0,0.3); margin-top: 20px;\">
 
+</div>
+
+---
+
+### 📋 About Me
+Expert Software Engineer with a **Master of Science in Big Data & AI**. I specialize in building high-performance, distributed systems and intelligent tools. My work bridges the gap between complex data problems and elegant software solutions, utilizing **Azure AI ecosystems**, **distributed messaging (RabbitMQ)**, and **custom developer tools** for the JetBrains platform.
+
+---
+
+### 🛠️ Technologies & Skills
+
+#### **Backend & APIs**
+*   **Architectures:** Medallion (Bronze/Silver/Gold), MVVM, Repository Pattern, Layered Persistence.
+*   **Languages & Frameworks:** C# (.NET Core/MAUI/WPF), Python (FastAPI/Pandas), Node.js (Express), Rust (Tauri).
+*   **Messaging & Async:** RabbitMQ (Async Eventing Consumers, Exchange/Queue routing), WebSockets.
+*   **Data Storage:** MongoDB, MySQL, SQLite, Parquet, Dual Persistence (In-memory/Relational).
+
+#### **AI & Data Engineering**
+*   **Azure AI Services:** Document Intelligence (OCR), Computer Vision, Speech-to-Text, Translator.
+*   **Large Language Models:** OpenAI GPT-4, Google Gemini 2.0 Flash, Local LLM integration (LM Studio, AnythingLLM).
+*   **Data Pipelines:** ETL orchestration, Scraping, Canonical Model Consolidation, KPI Generation.
+
+#### **Frontend & Design**
+*   **Web Platforms:** Angular 19, React (Vite), Progressive Web Apps (PWA), RxJS State Management.
+*   **UI Frameworks:** Tailwind CSS, Material Design, Chart.js for data visualization.
+
+#### **Mobile Development**
+*   **Cross-Platform:** .NET MAUI, Flutter (Dart).
+*   **Native Features:** Android WebView integration, RAG-enabled mobile assistants.
+
+#### **Other Tools & Platforms**
+*   **IDE Extensibility:** JetBrains Platform SDK (IntelliJ Plugin development in Kotlin).
+*   **DevOps & Tools:** Git Automation, Docker/Docker-Compose, GitHub Actions, CI/CD.
+
+---
+
+### 🚀 Featured Projects
+
+#### **AI & Distributed Orchestration**
+*   **[MAUI-LLM-Chat-RabbitMQ](https://github.com/Phosky71/MAUI-LLM-Chat-RabbitMQ):** Distributed LLM chat system using RabbitMQ for async message routing and MAUI for a responsive mobile frontend.
+*   **[Azure-AI-Invoice-Scanner](https://github.com/Phosky71/Azure-AI-Invoice-Scanner):** Enterprise-grade MAUI app integrating the full Azure AI suite for document analysis and translation.
+
+#### **Data Engineering (MSc Projects)**
+*   **[BigData-Final-Project](https://github.com/Phosky71/ProyectoFinal-EV1-BigData):** Advanced API with dual persistence and MCP protocol for intelligent data processing.
+*   **[Financial-ETL-Pipeline](https://github.com/Phosky71/Proyecto_UT1_RA1_BA):** Medallion-structured budget execution analysis with automated data quarantine and Parquet exports.
+
+#### **Developer Productivity Tools**
+*   **[CommitCraft (GitGenius)](https://github.com/Phosky71/AutoCommit-GitGenius):** AI-powered Git automation built with Tauri and Rust, utilizing Gemini 2.0 for semantic commit generation.
+*   **[Perplexity-Assistant](https://github.com/Phosky71/Perplexity-Assistant):** JetBrains IDE plugin integrating Perplexity AI for seamless real-time coding assistance.
+
+#### **Cybersecurity & Security Research**
+*   **[Operia Security Analyzer](https://github.com/Phosky71/operia-security-analyzer):** (Private) Advanced static analysis tool for vulnerability detection within the JetBrains platform.
+*   **[FileEncryptorService](https://github.com/Phosky71/FileEncryptorService):** FastAPI & WebSockets implementation of secure cryptographic protocols.
+
+#### **Game Automation & Emulation**
+*   **[AutoShinyHunter](https://github.com/Phosky71/AutoShinyHunterAllGens):** Multi-generational Pokémon automation framework using Lua scripting and Python orchestrators.
+
+---
+
+### 🎯 Areas of Expertise
+*   **Distributed Systems:** Designing scalable event-driven architectures with message brokers.
+*   **Intelligent Systems:** Integrating SOTA LLMs and Computer Vision into production apps.
+*   **ETL & Big Data:** Managing the full data lifecycle from raw ingestion to KPI reporting.
+*   **IDE Ecosystems:** Enhancing developer workflows through custom plugin development.
+*   **Offline-First Apps:** Building robust PWAs with offline synchronization capabilities.
+
+---
+
+### 📊 GitHub Statistics
+<div align=\"center\">
+  <img src=\"https://github-readme-stats.vercel.app/api?username=Phosky71&show_icons=true&theme=radical&count_private=true\" alt=\"Phosky71's Stats\" />
+  <img src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=Phosky71&layout=compact&theme=radical&hide=html,css\" alt=\"Top Languages\" />
 </div>
 
 ---
 
-### 🏛️ Executive Technical Profile
-Expert Software Engineer with a **Master of Science in Big Data & AI**. Specialized in the intersection of **Intelligent Systems**, **Cloud Infrastructure**, and **IDE Extensibility**. 
-
-I bridge complex data problems with high-performance software solutions, utilizing **Azure AI ecosystems**, **distributed messaging (RabbitMQ)**, and **custom developer tools** for the JetBrains platform. 
-
----
-
-### 💻 Enterprise-Grade Technology Matrix
-
-| Strategic Domain | Technical Proficiency |
-| :--- | :--- |
-| **System Engineering** | `.NET 9`, `C# 12`, `Kotlin (JetBrains SDK)`, `Python 3.12`, `Rust (Tauri)`, `Node.js` |
-| **AI & Data Architecture** | `Medallion Architecture (Bronze-Silver-Gold)`, `ETL Pipelines`, `RAG (AnythingLLM)`, `Vector DBs`, `Azure OpenAI`, `Gemini 2.0 Flash` |
-| **Cloud & Distributed** | `Microsoft Azure (AI Services, Service Bus)`, `RabbitMQ`, `Docker`, `FastAPI`, `RESTful Microservices` |
-| **Cross-Platform UI** | `Angular 19 (RxJS)`, `Flutter 3`, `.NET MAUI (MVVM)`, `TailwindCSS`, `Material Design` |
-
----
-
-### 🌟 Deep Tech Ecosystem & Key Contributions
-
-#### 🤖 AI-Powered Tooling & IDE Extensions
-*   **[CommitCraft (AutoCommit-GitGenius)](https://github.com/Phosky71/AutoCommit-GitGenius)**: High-performance Git automation engine built with **Rust & Tauri**. Leverages **Gemini 2.0 Flash** for context-aware professional commit generation.
-*   **[Perplexity-Assistant for IntelliJ](https://github.com/Phosky71/Perplexity-Assistant)**: Custom Kotlin plugin integrating Perplexity AI directly into the IDE environment for real-time intelligent code assistance.
-*   **[SecureGen SAST Engine](https://github.com/Phosky71/SecureGen)**: (Private) Advanced **Static Application Security Testing** plugin for automated vulnerability detection and proactive remediation using local LLMs.
-*   **[Distributed LLM Orchestrator](https://github.com/Phosky71/MAUI-LLM-Chat-RabbitMQ)**: Orchestrated real-time "LLM vs LLM" debates using **RabbitMQ** and **LM Studio**, managed through a specialized .NET MAUI dashboard.
-
-#### 🏗️ Data Engineering & Cloud Solutions
-*   **[Azure AI Document Refinery](https://github.com/Phosky71/Azure-AI-Invoice-Scanner)**: Enterprise invoice processing pipeline using **Azure Document Intelligence**, **Computer Vision**, and **Service Bus**.
-*   **[Financial Data Medallion Pipeline](https://github.com/Phosky71/Proyecto_UT1_RA1_BA)**: Advanced ETL system implementing robust data validation, idempotency, and canonical modeling for financial analysis.
-*   **[RAG-MAUI Integration](https://github.com/Phosky71/rag-maui-anythingllm)**: Cross-platform implementation of Retrieval-Augmented Generation (RAG) using local LLM providers.
-
-#### 💼 Business Intelligence & Performance Web
-*   **[Totalum Business Dashboard](https://github.com/Phosky71/Totalum-Business-Manager)**: Scalable ERP manager built with **Angular 19**, focused on high-concurrency client/order management.
-*   **[MTG Vault PWA](https://github.com/Phosky71/MTG-Vault)**: High-performance offline-first PWA for real-time inventory tracking, utilizing **Vite** and **TailwindCSS**.
-
----
-
-### 🛡️ Cybersecurity Research
-Dedicated focus on **Security-by-Design**. I develop and maintain custom static analysis tools (**Operia Security Analyzer**) for JetBrains platforms, focusing on proactive threat mitigation in Java/Kotlin ecosystems.
-
----
-
-### 🕹️ Advanced Emulation Automation
-Leveraging memory manipulation and low-level scripting for retro-game automation.
-*   **[AutoShinyHunter Framework](https://github.com/Phosky71/AutoShinyHunterAllGens)**: Cross-generation automation engine using custom **Lua** APIs and **Python** orchestrators.
-
----
-
-<div align="center">
-
-### 📊 Engineering Statistics
-[![Stats](https://github-readme-stats.vercel.app/api?username=Phosky71&show_icons=true&theme=radical&count_private=true)](https://github.com/Phosky71)
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phosky71&layout=compact&theme=radical&hide=html,css,javascript)](https://github.com/Phosky71)
-
-**Looking to collaborate on high-stakes AI or Data Engineering projects?**
-[**Reach out via Email**](mailto:ajgonzalezconde@hotmail.com)
-
-</div>
+### 📫 Contact & Connect
+*   **LinkedIn:** [Antonio Juan González-Conde Abril](https://www.linkedin.com/in/antonio-juan-gonz%C3%A1lez-conde-abril-a2185b226/)
+*   **Email:** [ajgonzalezconde@hotmail.com](mailto:ajgonzalezconde@hotmail.com)
+*   **Portfolio:** [Explore my latest work](https://phosky71.github.io/portfolio_antoniojuan/)
